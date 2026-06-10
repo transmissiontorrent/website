@@ -12,7 +12,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes.html</sparkle:releaseNotesLink>
       	<pubDate>Mon, 1 Jun 2026 21:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission/releases/download/4.1.2/Transmission-4.1.2.dmg"
+      	url="https://github.com/transmissiontorrent/transmission/releases/download/4.1.2/Transmission-4.1.2.dmg"
       	sparkle:version="14718.1.299"
       	sparkle:shortVersionString="4.1.2"
       	sparkle:dsaSignature="MC0CFAzHkFSR1lSNAuUHqVgQ9BW01yfaAhUAlp//U6r2Dv4ipxJ0PbG76oJZfLQ="
@@ -25,7 +25,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes1013.html</sparkle:releaseNotesLink>
       	<pubDate>Tue, 28 May 2024 21:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission/releases/download/4.0.6/Transmission-4.0.6.dmg"
+      	url="https://github.com/transmissiontorrent/transmission/releases/download/4.0.6/Transmission-4.0.6.dmg"
       	sparkle:version="14718.0.699"
       	sparkle:shortVersionString="4.0.6"
       	sparkle:dsaSignature="MC0CFEAgXKabWVq4Xka/ikGKNmvV9qIbAhUAlWLbzmUlM/fw8gXji6T68vrst+0="
@@ -38,7 +38,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes1010.html</sparkle:releaseNotesLink>
       	<pubDate>Fri, 15 May 2020 20:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-3.00.dmg"
+      	url="https://github.com/transmissiontorrent/transmission-releases/raw/master/Transmission-3.00.dmg"
       	sparkle:version="14714.3.0"
       	sparkle:shortVersionString="3.00"
       	sparkle:dsaSignature="MCwCFCi6RymmxvjLmYcNsRhixhbMXqw3AhRZbdpKdr/GAcNn8ESXTMehttsMWQ=="
@@ -51,7 +51,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes107.html</sparkle:releaseNotesLink>
       	<pubDate>Tue, 1 May 2018 16:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.94.dmg"
+      	url="https://github.com/transmissiontorrent/transmission-releases/raw/master/Transmission-2.94.dmg"
       	sparkle:version="14714.2.94"
       	sparkle:shortVersionString="2.94"
       	sparkle:dsaSignature="MCwCFD0ODnrwm5EdvdxsDYwb9obGmYx7AhR+VH2quJ0Pvnd9jBB71oVCuxTbyQ=="
@@ -64,7 +64,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes106.html</sparkle:releaseNotesLink>
       	<pubDate>Mon, 30 Jun 2014 23:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.84.dmg" 
+      	url="https://github.com/transmissiontorrent/transmission-releases/raw/master/Transmission-2.84.dmg" 
       	sparkle:version="14306"
       	sparkle:shortVersionString="2.84"
       	sparkle:dsaSignature="MCwCFAjRhM3MLlYeMjYUw2/MsX21ugDnAhQvb6lINvb+3bNKwmQcanivp2qlmw=="
@@ -77,7 +77,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes105.html</sparkle:releaseNotesLink>
       	<pubDate>Wed, 19 Oct 2011 22:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.42.dmg" 
+      	url="https://github.com/transmissiontorrent/transmission-releases/raw/master/Transmission-2.42.dmg" 
       	sparkle:version="13013"
       	sparkle:shortVersionString="2.42"
       	sparkle:dsaSignature="MC0CFQCVkkE30+qNQnk1zgdk738dVS6uVAIULSWcTiOel2JfqTCreDy1J8UgTi4="
@@ -90,7 +90,7 @@
       	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes104.html</sparkle:releaseNotesLink>
       	<pubDate>Thu, 04 June 2009 20:00:00 -0400</pubDate>
       	<enclosure
-      	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-1.54.dmg" 
+      	url="https://github.com/transmissiontorrent/transmission-releases/raw/master/Transmission-1.54.dmg" 
       	sparkle:version="8615"
       	sparkle:shortVersionString="1.54"
       	sparkle:dsaSignature="MCwCFCfR8NXqspNkW4xCtFWXLLE8OegiAhR28nofs7rwHU5gSNRZzg40PBvJYw=="
