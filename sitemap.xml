@@ -3,17 +3,17 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://transmissionbt.com/</loc>
+        <loc>https://transmissiontorrent.com/</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://transmissionbt.com/download</loc>
+        <loc>https://transmissiontorrent.com/download</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://transmissionbt.com/addons</loc>
+        <loc>https://transmissiontorrent.com/addons</loc>
     </url>
     <url>
-        <loc>https://transmissionbt.com/donate</loc>
+        <loc>https://transmissiontorrent.com/donate</loc>
     </url>
 </urlset>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Transmission Appcast</title>
-    <link>https://transmissionbt.com/appcast.xml</link>
+    <link>https://transmissiontorrent.com/appcast.xml</link>
     <description>Most recent version available.</description>
     <language>en</language>
     <pubDate>Mon, 1 Jun 2026 21:00:00 -0400</pubDate>
     
     <item>
       	<title>Transmission 4.1.2</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes.html</sparkle:releaseNotesLink>
       	<pubDate>Mon, 1 Jun 2026 21:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission/releases/download/4.1.2/Transmission-4.1.2.dmg"
@@ -22,7 +22,7 @@
     
     <item>
       	<title>Transmission 4.0.6</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes1013.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes1013.html</sparkle:releaseNotesLink>
       	<pubDate>Tue, 28 May 2024 21:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission/releases/download/4.0.6/Transmission-4.0.6.dmg"
@@ -35,7 +35,7 @@
     
     <item>
       	<title>Transmission 3.00</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes1010.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes1010.html</sparkle:releaseNotesLink>
       	<pubDate>Fri, 15 May 2020 20:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-3.00.dmg"
@@ -48,7 +48,7 @@
     
     <item>
       	<title>Transmission 2.94</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes107.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes107.html</sparkle:releaseNotesLink>
       	<pubDate>Tue, 1 May 2018 16:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.94.dmg"
@@ -61,7 +61,7 @@
     
     <item>
       	<title>Transmission 2.84</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes106.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes106.html</sparkle:releaseNotesLink>
       	<pubDate>Mon, 30 Jun 2014 23:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.84.dmg" 
@@ -74,7 +74,7 @@
 
     <item>
       	<title>Transmission 2.42</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes105.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes105.html</sparkle:releaseNotesLink>
       	<pubDate>Wed, 19 Oct 2011 22:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-2.42.dmg" 
@@ -87,7 +87,7 @@
 
     <item>
       	<title>Transmission 1.54</title>
-      	<sparkle:releaseNotesLink>https://transmissionbt.com/appcast/releasenotes104.html</sparkle:releaseNotesLink>
+      	<sparkle:releaseNotesLink>https://transmissiontorrent.com/appcast/releasenotes104.html</sparkle:releaseNotesLink>
       	<pubDate>Thu, 04 June 2009 20:00:00 -0400</pubDate>
       	<enclosure
       	url="https://github.com/transmission/transmission-releases/raw/master/Transmission-1.54.dmg" 
